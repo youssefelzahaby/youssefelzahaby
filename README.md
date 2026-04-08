@@ -1,8 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br/> I'm <b>Yousef Elzahaby</b>, a passionate <b>DevOps Engineer</b> from Egypt. I studied backend development with Python & Django as a foundation, completed some backend projects, and now I'm fully focused on <b>DevOps tools, infrastructure, and automation</b>.</p>
+<p>Welcome to my page!<br/>
+I'm <b>Yousef Elzahaby</b>, a passionate <b>DevOps Engineer</b> from Egypt. I started with backend development using <b>Python & Django</b>, completed several backend projects, and now my focus is fully on <b>DevOps, infrastructure, and automation</b>.</p>
 
-<h3>Technologies & Tools I use</h3>
+<h3>🛠 Technologies & Tools I Use</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -20,21 +21,21 @@
   <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
 </p>
 
-<h3>🛠 Current Focus</h3>
+<h3>🎯 Current Focus</h3>
 <ul>
-  <li>Learning and mastering DevOps tools and best practices</li>
-  <li>Linux system administration and shell scripting (Bash)</li>
-  <li>Containerization with Docker</li>
+  <li>Mastering DevOps tools and best practices</li>
+  <li>Linux system administration & shell scripting (Bash)</li>
+  <li>Containerization and orchestration (Docker)</li>
   <li>CI/CD pipelines and automation</li>
-  <li>Infrastructure as Code (IaC) and cloud deployment strategies</li>
-  <li>Database management and optimization with MySQL</li>
+  <li>Infrastructure as Code (IaC) & cloud deployment strategies</li>
+  <li>Database management & optimization (MySQL)</li>
 </ul>
 
 <h3>📫 Contact Me</h3>
 <p>
-  📧 <b>Email:</b> yousefdahaby110@gmail.com <br/>
-  <a href="https://github.com/yousef"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  📧 <b>Email:</b> yousefdahaby110@gmail.com<br/>
+  🔗 <a href="https://github.com/youssefelzahaby"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
 <hr/>
-<p align="center">This README reflects my journey from backend foundations to becoming a DevOps-focused engineer. Stay tuned for updates!</p>
+<p align="center">This README reflects my journey from backend foundations to a DevOps-focused engineer. Stay tuned for updates!</p>
